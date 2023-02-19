@@ -15,7 +15,9 @@ After that, I will ask the user to choose what functionality they want to execut
 # Prerequisites:
 
 functions using def in Python
+
 Python’s If and else
+
 While loop
 
 This repository is made for beginners which help them in doing simple calculations faster and with ease. For more information you could visit my GitHub profile where you will find more amazing repositories.
