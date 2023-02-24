@@ -26,4 +26,4 @@ This repository is made for beginners which help them in doing simple calculatio
 
 video link:
 
-https://drive.google.com/drive/folders/1FU6LeGIWDk6evelCTpPXiOciceP7-lHd
+https://drive.google.com/file/d/1fRhxaSqwPYXd8b3Qx-WZq6ySiNcDT79q/view?usp=drivesdk
